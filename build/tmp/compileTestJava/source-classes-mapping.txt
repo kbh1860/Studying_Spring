@@ -1,0 +1,4 @@
+Hello/HelloSpring/HelloSpringApplicationTests.java
+ Hello.HelloSpring.HelloSpringApplicationTests
+Hello/HelloSpring/repository/MemoryMemberRepositoryTest.java
+ Hello.HelloSpring.repository.MemoryMemberRepositoryTest

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Hello.HelloSpring.repository.MemoryMemberRepositoryTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2021-03-15T16:02:58" hostname="DESKTOP-FB4SDVF" time="0.087">
+  <properties/>
+  <testcase name="findAll()" classname="Hello.HelloSpring.repository.MemoryMemberRepositoryTest" time="0.083"/>
+  <testcase name="findByName()" classname="Hello.HelloSpring.repository.MemoryMemberRepositoryTest" time="0.002"/>
+  <testcase name="save()" classname="Hello.HelloSpring.repository.MemoryMemberRepositoryTest" time="0.0"/>
+  <system-out><![CDATA[spring1
+spring2
+spring1
+spring2
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
